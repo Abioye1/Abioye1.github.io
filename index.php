@@ -784,7 +784,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>Entrepreneurship Center</strong>. All Rights Reserved
+        &copy; Copyright <strong>Entrepreneurship Center</strong>. All Rights Reserved <?php echo date('Y');?>
       </div>
       <div class="credits">
         <!--
